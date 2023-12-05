@@ -43,9 +43,9 @@
     {
       "tvid": "6",
       "epgid": "CCTV5+",
-      "name": "CCTV5+,CCTV5⁺体育赛事,CCTV5⁺,CCTV-5⁺,CCTV-5⁺体育赛事,CCTV-体育赛事",
+      "name": "CCTV5+,CCTV5+体育赛事,CCTV-5+,CCTV-5+体育赛事,CCTV-体育赛事",
       "status": "1",
-      "note": "CCTV-5⁺体育赛事",
+      "note": "CCTV-5+体育赛事",
       "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
     },
     {
@@ -635,7 +635,7 @@
     {
       "tvid": "80",
       "epgid": "CHC家庭电影",
-      "name": "CHC家庭电影",
+      "name": "CHC家庭电影,CHC家庭影院",
       "status": "1",
       "note": "CHC家庭电影",
       "logo": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"
@@ -1163,7 +1163,7 @@
     {
       "tvid": "146",
       "epgid": "卡酷动画",
-      "name": "卡酷动画",
+      "name": "卡酷动画,卡酷少儿",
       "status": "1",
       "note": "卡酷动画",
       "logo": "http://epg.51zmt.top:8000/tb1/qt/kaku.png"
@@ -4271,6 +4271,94 @@
       "status": "1",
       "note": "Animax",
       "logo": "http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png"
+    },
+    {
+      "tvid": "7245",
+      "epgid": "中国教育4台",
+      "name": "教育4台",
+      "status": "1",
+      "note": "教育4台",
+      "logo": "http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png"
+    },
+    {
+      "tvid": "7249",
+      "epgid": "CCTV16",
+      "name": "CCTV-16奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克,CCTV-奥林匹克,CCTV奥林匹克,CCTV奥林匹克频道",
+      "status": "1",
+      "note": "CCTV-16奥林匹克",
+      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png"
+    },
+    {
+      "tvid": "99001",
+      "epgid": "QTV-1",
+      "name": "QTV-1",
+      "status": "1",
+      "note": "QTV-1",
+      "logo": "https://upload.112114.xyz/logo/QTV.png"
+    },
+    {
+      "tvid": "99002",
+      "epgid": "QTV-2",
+      "name": "QTV-2",
+      "status": "1",
+      "note": "QTV-2",
+      "logo": "https://upload.112114.xyz/logo/QTV.png"
+    },
+    {
+      "tvid": "99003",
+      "epgid": "QTV-3",
+      "name": "QTV-3",
+      "status": "1",
+      "note": "QTV-3",
+      "logo": "https://upload.112114.xyz/logo/QTV.png"
+    },
+    {
+      "tvid": "99004",
+      "epgid": "QTV-4",
+      "name": "QTV-4",
+      "status": "1",
+      "note": "QTV-4",
+      "logo": "https://upload.112114.xyz/logo/QTV.png"
+    },
+    {
+      "tvid": "99005",
+      "epgid": "QTV-5",
+      "name": "QTV-5",
+      "status": "1",
+      "note": "QTV-5",
+      "logo": "https://upload.112114.xyz/logo/QTV.png"
+    },
+    {
+      "tvid": "99006",
+      "epgid": "QTV-6",
+      "name": "QTV-6",
+      "status": "1",
+      "note": "QTV-6",
+      "logo": "https://upload.112114.xyz/logo/QTV.png"
+    },
+    {
+      "tvid": "100001",
+      "epgid": "都市剧场",
+      "name": "都市剧场",
+      "status": "1",
+      "note": "都市剧场",
+      "logo": "https://upload.112114.xyz/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png"
+    },
+    {
+      "tvid": "110001",
+      "epgid": "黑莓电影",
+      "name": "黑莓电影",
+      "status": "1",
+      "note": "黑莓电影",
+      "logo": "https://upload.112114.xyz/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png"
+    },
+    {
+      "tvid": "110002",
+      "epgid": "黑莓动画",
+      "name": "黑莓动画",
+      "status": "1",
+      "note": "黑莓动画",
+      "logo": "https://upload.112114.xyz/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png"
     }
   ]
 }
